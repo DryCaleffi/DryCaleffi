@@ -1,19 +1,16 @@
-Claro, Dry! Vou elaborar um README de apresentação para o seu GitHub que reflita suas paixões, sua formação e seu desejo de aprender e crescer na área de TI. Aqui está uma sugestão:
-
----
 
 # Adry Caleffi
-
+---
 👋 Olá! Meu nome é Dry Caleffi e tenho 19 anos.
 
 ✨ Sou apaixonado por música e livros e estou sempre buscando aprender e me desenvolver na área de Tecnologia da Informação (TI).
 
 📚 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na FATEC Mogi Mirim.
-
+---
 ## Sobre Mim
 
 Desde jovem, sempre fui fascinado pelo mundo da tecnologia e suas infinitas possibilidades. Minha jornada começou com a curiosidade de entender como as coisas funcionam por trás das telas. Essa curiosidade se transformou em paixão e me levou a seguir uma carreira em TI.
-
+---
 ### Interesses
 
 - **Tecnologia:** Sempre procurando novas linguagens de programação, ferramentas e tecnologias emergentes.
