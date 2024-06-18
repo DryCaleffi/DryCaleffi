@@ -8,7 +8,7 @@
 📚 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na FATEC Mogi Mirim.
 ---
 ## Sobre Mim
-
+--
 Desde jovem, sempre fui fascinado pelo mundo da tecnologia e suas infinitas possibilidades. Minha jornada começou com a curiosidade de entender como as coisas funcionam por trás das telas. Essa curiosidade se transformou em paixão e me levou a seguir uma carreira em TI.
 ---
 ### Interesses
@@ -53,8 +53,11 @@ Estou entusiasmado com a possibilidade de contribuir para projetos inovadores e 
 ---
 
 ✨ **Estou à disposição para colaborações e oportunidades na área de TI. Vamos nos conectar!**
-
----
+![DryCaleffi's Stats](https://github-readme-stats.vercel.app/api?username=DryCaleffi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![DryCaleffi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DryCaleffi&theme=vue-dark&hide_border=true)
+![DryCaleffi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DryCaleffi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 **Contatos:**
-- [LinkedIn](https://www.linkedin.com/in/dry-caleffi/)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+- (https://www.linkedin.com/in/dry-caleffi/)
+-  
