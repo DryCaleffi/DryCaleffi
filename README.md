@@ -2,7 +2,7 @@ Claro, Dry! Vou elaborar um README de apresentação para o seu GitHub que refli
 
 ---
 
-# Dry Caleffi
+# Adry Caleffi
 
 👋 Olá! Meu nome é Dry Caleffi e tenho 19 anos.
 
