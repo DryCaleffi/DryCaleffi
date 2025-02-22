@@ -1,11 +1,11 @@
 
 # Adry Caleffi
 ---
-👋 Olá! Meu nome é Dry Caleffi e tenho 19 anos.
+👋 Olá! Meu nome é Dry Caleffi e tenho 20 anos.
 
 ✨ Sou apaixonado por música e livros e estou sempre buscando aprender e me desenvolver na área de Tecnologia da Informação (TI).
 
-📚 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na FATEC Mogi Mirim.
+📚 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na FATEC Mogi Mirim, e faço estágio no Banco Itaú Unibanco
 ---
 ## Sobre Mim
 --
