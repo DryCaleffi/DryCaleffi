@@ -6,17 +6,17 @@
 ✨ Sou apaixonado por música e livros e estou sempre buscando aprender e me desenvolver na área de Tecnologia da Informação (TI).
 
 📚 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na FATEC Mogi Mirim, e faço estágio no Banco Itaú Unibanco
+
 ---
 ## Sobre Mim
---
+
 Sou estágiaria no Banco Itaú
-Desde jovem, sempre fui fascinado pelo mundo da tecnologia e suas infinitas possibilidades. Minha jornada começou com a curiosidade de entender como as coisas funcionam por trás das telas. Essa curiosidade se transformou em paixão e me levou a seguir uma carreira em TI.
+Minha jornada na tecnologia é alimentada por uma curiosidade que nasceu cedo: a de entender a essência das coisas. Não me contento apenas em saber que algo funciona; eu busco ativamente como otimizar, quais são as melhores ferramentas e como aprimorar a organização de cada processo. Essa mentalidade de melhoria contínua me levou naturalmente para a Análise e TI, onde consigo aplicar essa paixão para construir soluções robustas e eficientes. Aqui, a exploração das infinitas possibilidades da tecnologia continua a ser o meu motor diário
 ---
 ### Interesses
-
-- **Tecnologia:** Sempre procurando novas linguagens de programação, ferramentas e tecnologias emergentes.
-- **Música:** A música é uma grande parte da minha vida, influenciando minha criatividade e foco.
-- **Livros:** Adoro ler..
+- **Análises** 
+- **Documentações**
+- **Governança**
 
 ## Formação Acadêmica
 
@@ -26,6 +26,7 @@ Desde jovem, sempre fui fascinado pelo mundo da tecnologia e suas infinitas poss
 ## Cursos Online
 - Bootcamp Santader
 - ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+
 
 ## Tecnologias e Ferramentas
 
@@ -43,23 +44,19 @@ Desde jovem, sempre fui fascinado pelo mundo da tecnologia e suas infinitas poss
 ## Eu estou estudando... 🧩
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
   
 ## Habilidades Técnicas
 
 - **Linguagens de Programação:** Em constante aprendizado e prática.
+- **Análises**
 
-## Objetivos
 
-Estou entusiasmado com a possibilidade de contribuir para projetos inovadores e desenvolver habilidades técnicas que serão essenciais para minha carreira. Sempre buscando aprender coisas novas e enfrentar desafios, estou pronto para me adaptar rapidamente a novas tecnologias e metodologias.
-
----
 
 ✨ **Estou à disposição para colaborações e oportunidades na área de TI. Vamos nos conectar!**
 ![DryCaleffi's Stats](https://github-readme-stats.vercel.app/api?username=DryCaleffi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![DryCaleffi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DryCaleffi&theme=vue-dark&hide_border=true)
 ![DryCaleffi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DryCaleffi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 **Contatos:**
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-- (https://www.linkedin.com/in/dry-caleffi/)
--  
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) -    https://www.linkedin.com/in/dry-caleffi/ 
+
